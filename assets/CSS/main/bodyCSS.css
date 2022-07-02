@@ -1,0 +1,19 @@
+.body-h2 {
+    width: 30%;
+    display: inline-flex;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #F5F5F5;
+}
+
+h1,
+h2 {
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+
+.separador {
+    padding-left: 20px;
+}

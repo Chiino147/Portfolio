@@ -1,0 +1,33 @@
+.main-formacion {
+    background-color: #F5F5F5;
+    color: black;
+    font-size: 18px;
+}
+
+.formaciones {
+    display: flex;
+    flex-direction: row;
+    height: 360px;
+    background-color: #639ce7;
+}
+
+.card-formacion {
+    width: 20%;
+    margin: 5%;
+    text-align: center;
+    height: 250px;
+    border: black 1px solid;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.card-logo {
+    width: 70%;
+    margin-bottom: 5px;
+}
+
+.card-logo img {
+    width: 100%;
+}

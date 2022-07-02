@@ -1,0 +1,48 @@
+.main-inicio {
+    width: 100%;
+    background: #EAF2FD;
+    color: black;
+    display: flex;
+    flex-direction: row;
+    font-size: 20px;
+}
+
+main {
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+.inicio-info {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.inicio-img {
+    padding: 5px;
+    Width: 240px;
+    Height: 240px;
+    margin-left: 70%;
+    border-radius: 50%;
+    float: left;
+}
+
+.inicio-redes {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-size: 35px;
+}
+
+.redes {
+    text-decoration: none;
+    color: black;
+}
+
+.redes:hover {
+    color: #8daddb;
+}
+
+.textoMagico {
+    color: #d2e00f;
+}
